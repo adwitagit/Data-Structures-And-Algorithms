@@ -1,3 +1,5 @@
+
+#Find an average of 10 numbers using an array.
 #include <stdio.h>
 
 int main() {
